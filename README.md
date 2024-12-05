@@ -22,11 +22,11 @@ oc apply ./00-install-rhods-operator.yaml
 ## Step 3 - Create the DSCInitialization CR
 
 ```sh
-oc apply ./01-create-rhods-dsci.yaml
+oc apply ./01-create-rhods-dsc.yaml
 ```
 
 ## Step 4 - Create the DataScienceCluster CR
 
 ```sh
-oc apply ./02-create-rhods-dsc.yaml
+oc apply ./02-create-rhods-dsci.yaml
 ```
