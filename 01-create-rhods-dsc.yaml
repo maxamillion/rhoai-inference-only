@@ -7,7 +7,7 @@ spec:
     codeflare:
       managementState: Removed
     dashboard:
-      managementState: Removed
+      managementState: Managed
     datasciencepipelines:
       managementState: Removed
     kserve:
@@ -17,9 +17,9 @@ spec:
         managementState: Removed 
         name: knative-serving
     kueue:
-      managementState: Removed
+      managementState: Managed
     modelmeshserving:
-      managementState: Removed
+      managementState: Managed
     ray:
       managementState: Removed
     trainingoperator:
