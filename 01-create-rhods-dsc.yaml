@@ -17,7 +17,7 @@ spec:
         managementState: Removed 
         name: knative-serving
     kueue:
-      managementState: Managed
+      managementState: Removed
     modelmeshserving:
       managementState: Managed
     ray:
