@@ -19,7 +19,7 @@ spec:
     kueue:
       managementState: Removed
     modelmeshserving:
-      managementState: Managed
+      managementState: Removed
     ray:
       managementState: Removed
     trainingoperator:
@@ -27,6 +27,6 @@ spec:
     trustyai:
       managementState: Removed
     workbenches:
-      managementState: Managed
+      managementState: Removed
 
 # vim: tabstop=2 shiftwidth=2 softtabstop=2 expandtab :
